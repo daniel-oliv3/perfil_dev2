@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0; /* espacamento interno, separa o conteudo da borda */
+    outline: none;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
